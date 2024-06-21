@@ -1,0 +1,68 @@
+{
+    "items":[
+        {
+            "sys":{"id":"1"},
+            "field":{
+                "title": "Python Programming mastercourse  ",
+                "price ":123.99,
+                "image ":{"fields":{"file": {"url":"Img/Python image.jpeg"}}}
+            }
+        },
+        {
+            "sys":{"id":"2"},
+            "field":{
+                "title": "C++ Master course   ",
+                "price ":110.99,
+                "image ":{"fields":{"file": {"url":"Img/C++ Images.png"}}}
+            }
+        },
+        {
+            "sys":{"id":"3"},
+            "field":{
+                "title": "Web Development  ",
+                "price ":99.99,
+                "image ":{"fields":{"file": {"url":"Img/Web dev.jpeg"}}}
+            }
+        },
+        {
+            "sys":{"id":"4"},
+            "field":{
+                "title": "Java  Programming mastercourse  ",
+                "price ":149.99,
+                "image ":{"fields":{"file": {"url":"Img/Java images.png"}}}
+            }
+        },
+        {
+            "sys":{"id":"5"},
+            "field":{
+                "title": "Digital Marketing  full course  ",
+                "price ":109.99,
+                "image ":{"fields":{"file": {"url":"Img/Digital marketing.png"}}}
+            }
+        },
+        {
+            "sys":{"id":"6"},
+            "field":{
+                "title": "Advance Web development ",
+                "price ":199.99,
+                "image ":{"fields":{"file": {"url":"Img/Python image.jpeg"}}}
+            }
+        },
+        {
+            "sys":{"id":"7"},
+            "field":{
+                "title": "Data structure and Algorithms Full course   ",
+                "price ":123.99,
+                "image ":{"fields":{"file": {"url":"Img/Data structures.png"}}}
+            }
+        },
+        {
+            "sys":{"id":"8"},
+            "field":{
+                "title": "Data science full course  ",
+                "price ":149.99,
+                "image ":{"fields":{"file": {"url":"Img/Python image.jpeg"}}}
+            }
+        }
+    ]
+}
